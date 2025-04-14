@@ -25,13 +25,11 @@ Both notebooks cover the following agent design patterns:
 
 | Colab | Framework | Description |
 |-------|-----------|-------------|
-| [🔗 LangGraph Colab](#link-to-langgraph-colab) | LangGraph | Implements all 5 patterns using LangGraph, with LangSmith Studio trace visualization |
-| [🔗 CrewAI Colab](#link-to-crewai-colab) | CrewAI | Implements all 5 patterns using CrewAI with CLI logs and debug insights |
+| [🔗 LangGraph Colab](https://github.com/syedanida/AI-Agents-using-Langraph/blob/main/LangGraph_AI_Agents.ipynb) | LangGraph | Implements all 5 patterns using LangGraph, with LangSmith Studio trace visualization |
+| [🔗 CrewAI Colab](https://github.com/syedanida/AI-Agents-using-Langraph/blob/main/CrewAi_AI_Agents.ipynb) | CrewAI | Implements all 5 patterns using CrewAI with CLI logs and debug insights |
 
 ---
 
 ## 🎥 Video Walkthroughs
 
-| Pattern Type | LangGraph Video | CrewAI Video |
-|--------------|------------------|---------------|
-| Full Patterns Demo | [📺 Watch LangGraph Walkthrough](#link-to-langgraph-video) | [📺 Watch CrewAI Walkthrough](#link-to-crewai-video) |
+[📺 Watch LangGraph and CrewAI Walkthrough](#link-to-langgraph-video)
