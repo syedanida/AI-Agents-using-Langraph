@@ -32,4 +32,4 @@ Both notebooks cover the following agent design patterns:
 
 ## 🎥 Video Walkthroughs
 
-[📺 Watch LangGraph and CrewAI Walkthrough](#link-to-langgraph-video)
+[📺 Watch LangGraph and CrewAI Walkthrough](https://youtu.be/IcAQyq3zj9k)
